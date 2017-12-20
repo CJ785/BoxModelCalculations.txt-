@@ -1,0 +1,28 @@
+Height:
+20px margin
+1px border
+10px padding
+150px content
+10px padding
+1px border
+20px margin
+= 212px
+
+
+Width:
+20px margin
+1px border
+10px padding
+400px content
+10px padding
+1px border
+20px margin
+= 462px
+
+Browser calculated height:
+1+10+150+10+1=172
+
+Browser calculated width:
+1+10+400+10+1=422
+
+
